@@ -1,0 +1,7 @@
+E:\unity\quark\Semana 01\Challenge14\Challenge14\bin\Debug\Challenge14.exe.config
+E:\unity\quark\Semana 01\Challenge14\Challenge14\bin\Debug\Challenge14.exe
+E:\unity\quark\Semana 01\Challenge14\Challenge14\bin\Debug\Challenge14.pdb
+E:\unity\quark\Semana 01\Challenge14\Challenge14\obj\Debug\Challenge14.csproj.AssemblyReference.cache
+E:\unity\quark\Semana 01\Challenge14\Challenge14\obj\Debug\Challenge14.csproj.CoreCompileInputs.cache
+E:\unity\quark\Semana 01\Challenge14\Challenge14\obj\Debug\Challenge14.exe
+E:\unity\quark\Semana 01\Challenge14\Challenge14\obj\Debug\Challenge14.pdb

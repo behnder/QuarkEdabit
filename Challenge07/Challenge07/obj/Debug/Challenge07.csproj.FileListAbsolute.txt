@@ -1,0 +1,17 @@
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Challenge07.exe.config
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Challenge07.exe
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Challenge07.pdb
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\unity\quark\Semana 01\Challenge07\Challenge07\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\unity\quark\Semana 01\Challenge07\Challenge07\obj\Debug\Challenge07.csproj.AssemblyReference.cache
+E:\unity\quark\Semana 01\Challenge07\Challenge07\obj\Debug\Challenge07.csproj.CoreCompileInputs.cache
+E:\unity\quark\Semana 01\Challenge07\Challenge07\obj\Debug\Challenge07.csproj.CopyComplete
+E:\unity\quark\Semana 01\Challenge07\Challenge07\obj\Debug\Challenge07.exe
+E:\unity\quark\Semana 01\Challenge07\Challenge07\obj\Debug\Challenge07.pdb
