@@ -1,0 +1,7 @@
+E:\unity\quark\Semana 01\Challenge19\Challenge19\bin\Debug\Challenge19.exe.config
+E:\unity\quark\Semana 01\Challenge19\Challenge19\bin\Debug\Challenge19.exe
+E:\unity\quark\Semana 01\Challenge19\Challenge19\bin\Debug\Challenge19.pdb
+E:\unity\quark\Semana 01\Challenge19\Challenge19\obj\Debug\Challenge19.csproj.AssemblyReference.cache
+E:\unity\quark\Semana 01\Challenge19\Challenge19\obj\Debug\Challenge19.csproj.CoreCompileInputs.cache
+E:\unity\quark\Semana 01\Challenge19\Challenge19\obj\Debug\Challenge19.exe
+E:\unity\quark\Semana 01\Challenge19\Challenge19\obj\Debug\Challenge19.pdb

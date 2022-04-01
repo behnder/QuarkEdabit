@@ -18,11 +18,16 @@ namespace Challenge17
         {
             int resultado = 1;
 
-            for (int i = 0; i < v; i++) {
+            if (v == 0)
+            {
+                return 0;
+            }
+
+            for (int i = 0; i < v; i++)
+            {
 
                 if (i == 0)
                 {
-
                     resultado += i * (v - i);
                 }
                 else
@@ -30,9 +35,6 @@ namespace Challenge17
                     resultado += resultado * (v - i);
                 }
 
-
-
-              
             }
             return resultado;
 
