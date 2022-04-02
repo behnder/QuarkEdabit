@@ -1,0 +1,7 @@
+C:\Users\Corvo\source\repos\Challenge21\Challenge21\bin\Debug\Challenge21.exe.config
+C:\Users\Corvo\source\repos\Challenge21\Challenge21\bin\Debug\Challenge21.exe
+C:\Users\Corvo\source\repos\Challenge21\Challenge21\bin\Debug\Challenge21.pdb
+C:\Users\Corvo\source\repos\Challenge21\Challenge21\obj\Debug\Challenge21.csproj.AssemblyReference.cache
+C:\Users\Corvo\source\repos\Challenge21\Challenge21\obj\Debug\Challenge21.csproj.CoreCompileInputs.cache
+C:\Users\Corvo\source\repos\Challenge21\Challenge21\obj\Debug\Challenge21.exe
+C:\Users\Corvo\source\repos\Challenge21\Challenge21\obj\Debug\Challenge21.pdb

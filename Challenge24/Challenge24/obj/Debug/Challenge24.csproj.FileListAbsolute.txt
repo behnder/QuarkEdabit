@@ -1,0 +1,7 @@
+E:\unity\quark\Semana 01\Challenge24\Challenge24\bin\Debug\Challenge24.exe.config
+E:\unity\quark\Semana 01\Challenge24\Challenge24\bin\Debug\Challenge24.exe
+E:\unity\quark\Semana 01\Challenge24\Challenge24\bin\Debug\Challenge24.pdb
+E:\unity\quark\Semana 01\Challenge24\Challenge24\obj\Debug\Challenge24.csproj.AssemblyReference.cache
+E:\unity\quark\Semana 01\Challenge24\Challenge24\obj\Debug\Challenge24.csproj.CoreCompileInputs.cache
+E:\unity\quark\Semana 01\Challenge24\Challenge24\obj\Debug\Challenge24.exe
+E:\unity\quark\Semana 01\Challenge24\Challenge24\obj\Debug\Challenge24.pdb

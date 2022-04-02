@@ -1,0 +1,7 @@
+E:\unity\quark\Semana 01\Challenge25\Challenge25\bin\Debug\Challenge25.exe.config
+E:\unity\quark\Semana 01\Challenge25\Challenge25\bin\Debug\Challenge25.exe
+E:\unity\quark\Semana 01\Challenge25\Challenge25\bin\Debug\Challenge25.pdb
+E:\unity\quark\Semana 01\Challenge25\Challenge25\obj\Debug\Challenge25.csproj.AssemblyReference.cache
+E:\unity\quark\Semana 01\Challenge25\Challenge25\obj\Debug\Challenge25.csproj.CoreCompileInputs.cache
+E:\unity\quark\Semana 01\Challenge25\Challenge25\obj\Debug\Challenge25.exe
+E:\unity\quark\Semana 01\Challenge25\Challenge25\obj\Debug\Challenge25.pdb

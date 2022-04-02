@@ -1,0 +1,7 @@
+C:\Users\Corvo\source\repos\Challenge22\Challenge22\obj\Debug\Challenge22.csproj.AssemblyReference.cache
+C:\Users\Corvo\source\repos\Challenge22\Challenge22\obj\Debug\Challenge22.csproj.CoreCompileInputs.cache
+C:\Users\Corvo\source\repos\Challenge22\Challenge22\bin\Debug\Challenge22.exe.config
+C:\Users\Corvo\source\repos\Challenge22\Challenge22\bin\Debug\Challenge22.exe
+C:\Users\Corvo\source\repos\Challenge22\Challenge22\bin\Debug\Challenge22.pdb
+C:\Users\Corvo\source\repos\Challenge22\Challenge22\obj\Debug\Challenge22.exe
+C:\Users\Corvo\source\repos\Challenge22\Challenge22\obj\Debug\Challenge22.pdb
