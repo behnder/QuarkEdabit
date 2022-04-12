@@ -12,37 +12,37 @@ namespace Challenge27
         {         
         }
 
-        public static string PilishString(string recibida)
+        public static string PilishString(string stringRecibido)
         {
             List<string> retorno = new List<string>();
-            string result = "314159265358979";
-            var arreglolongitud = result.Select(digit => int.Parse(digit.ToString()));
-            int inicio = 0;
 
-            for (int i = 0; i < arreglolongitud.Count(); i++)
+            var arregloLongitudesPalabras = "314159265358979".Select(digit => int.Parse(digit.ToString()));
+            int inicioSubstring = 0;
+
+            for (int i = 0; i < arregloLongitudesPalabras.Count(); i++)
             {
-                if (inicio < recibida.Length)
+                if (inicioSubstring < stringRecibido.Length)
                 {
-                    if ((recibida.Length - inicio) >= arreglolongitud.ElementAt(i))
+                    if ((stringRecibido.Length - inicioSubstring) >= arregloLongitudesPalabras.ElementAt(i))
                     {
-                        retorno.Add(recibida.Substring(inicio, arreglolongitud.ElementAt(i)));
-                        inicio += arreglolongitud.ElementAt(i);
+                        retorno.Add(stringRecibido.Substring(inicioSubstring, arregloLongitudesPalabras.ElementAt(i)));
+                        inicioSubstring += arregloLongitudesPalabras.ElementAt(i);
                     }
                     else
                     {
                         StringBuilder aux = new StringBuilder();
-                        aux.Append(recibida.Substring(inicio));
+                        aux.Append(stringRecibido.Substring(inicioSubstring));
 
-                        for (int j = 0; j < (arreglolongitud.ElementAt(i) - recibida.Substring(inicio).Length); j++)
+                        for (int j = 0; j < (arregloLongitudesPalabras.ElementAt(i) - stringRecibido.Substring(inicioSubstring).Length); j++)
                         {
-                            aux.Append(recibida.Last());
+                            aux.Append(stringRecibido.Last());
                         }
                         retorno.Add(aux.ToString());
                         break;
                     }
                 }
             }          
-            return string.Join(" ", retorno.ToArray());
+            return string.Join(" ", retorno);
         }
     }
 }
